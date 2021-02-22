@@ -1,6 +1,6 @@
 {
   "name": "rs-swiper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "swiper v6.4.15 based custom package",
   "scripts": {
     "build:dev": "cross-env NODE_ENV=development node scripts/build",
