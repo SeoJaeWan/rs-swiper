@@ -1,4 +1,4 @@
-# Swiper
+# Rs-Swiper
 
 swiper v6.4.15 based custom package
 
