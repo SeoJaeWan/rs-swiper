@@ -3,6 +3,7 @@
 swiper v6.4.15 based custom package
 
 Navigation button out of swiper-conponents
+(Control Navigation ClassName is swiper-button prev, swiper-button-next)
 
 ## Dist / Build
 

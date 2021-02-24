@@ -151,7 +151,7 @@ const Swiper = forwardRef(
     }
 
     return (
-      <>
+      <div>
         {needsNavigation(swiperParams) && (
           <>
             <div ref={prevElRef} className="swiper-button-prev" />
@@ -178,7 +178,7 @@ const Swiper = forwardRef(
           </WrapperTag>
           {slots['container-end']}
         </Tag>
-      </>
+      </div>
     );
   },
 );
