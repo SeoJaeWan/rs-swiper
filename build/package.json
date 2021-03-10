@@ -1,6 +1,6 @@
 {
   "name": "rs-swiper",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "swiper v6.4.15 based custom package",
   "main": "swiper.cjs.js",
   "jsnext:main": "swiper.esm.js",
